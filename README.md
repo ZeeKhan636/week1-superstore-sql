@@ -23,3 +23,13 @@ Python EDA (Pandas)
   This means a few large purchases are pulling the average up — most orders are actually small.
  The largest individual sales are all Technology purchases (Copiers, Machines) — 
   high-value but infrequent, compared to Phones which sell more often at lower prices.
+
+
+
+
+Power BI Dashboard
+
+Built an interactive dashboard with Total Sales, Sales by Category, and Sales by 
+Region, plus a category filter. Confirms earlier findings: Technology leads in 
+sales, West region outperforms others. See `superstore-dashboard.pbix` (open in 
+Power BI Desktop) or the screenshot above for a preview.
